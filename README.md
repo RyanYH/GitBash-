@@ -3,9 +3,11 @@ Git Repository생성, Project 업로드
 
 
 
-git init
+# 처음 시작시 git init
 
-git add *
+git pull origin master
+
+git add .
 
 git commit -m "content"
 
